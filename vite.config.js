@@ -13,7 +13,6 @@ export default defineConfig({
     federation({
       name: "host-app",
       remotes: {
-
         todo_components: process.env.VITE_TODO_COMPONENTS_URL,
       },
       shared: ["react"],
