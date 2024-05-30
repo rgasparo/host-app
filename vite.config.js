@@ -13,7 +13,7 @@ export default defineConfig({
     federation({
       name: "host-app",
       remotes: {
-        // eslint-disable-next-line no-undef
+
         todo_components: process.env.VITE_TODO_COMPONENTS_URL,
       },
       shared: ["react"],
