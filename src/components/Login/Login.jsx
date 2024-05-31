@@ -17,7 +17,7 @@ const Login = () => {
   return (
 
     <div className="text-center mt-8">
-    <h1 className="font-bold">Puedes inicair sesión</h1>
+    <h1 className="font-bold">Puedes iniciar sesión</h1>
     <h3 className="mt-2">El gestor de valoraciones Autocom</h3>
     <img
         src="https://www.notion.so/cdn-cgi/image/format=auto,width=256,quality=100/front-static/shared/illustrations/blocks/topPeekI.png"
