@@ -19,7 +19,8 @@ const Home = () => {
       />
       <button 
         onClick={handleLoginRedirect} 
-        className="mt-12 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        style={{ minWidth:'300px'}}
+        className="mt-16 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
       >
         Crear cuenta
       </button>

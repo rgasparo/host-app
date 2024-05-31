@@ -22,7 +22,7 @@ const Login = () => {
     <img
         src="https://www.notion.so/cdn-cgi/image/format=auto,width=256,quality=100/front-static/shared/illustrations/blocks/topPeekI.png"
         alt="Descripción de la imagen"
-        className="mt-10 mx-auto w-1/2 filter invert"
+        className="mt-10 mx-auto filter invert"
         style={{marginBottom:'-55px'}}
       />
 

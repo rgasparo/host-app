@@ -13,11 +13,11 @@ function Documents() {
   // };
 
   return (
-    <>
+    <div style={{ maxWidth:'500px', margin:'0 auto'}}>
       <App/>
       {/* <Input value={newTodo} onChange={setNewTodo} onSubmit={onSubmit} />
       <List items={todos} /> */}
-    </>
+    </div>
   );
 }
 

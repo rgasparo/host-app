@@ -3,7 +3,9 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="flex bg-stone-900 justify-between p-3 rounded-full mx-auto mb-10 w-100">
+    <div 
+    className="flex bg-stone-900 justify-between p-3 rounded-full mb-10"
+    >
           <div style={{paddingLeft:'12px'}}>
             <Link to="/" className="text-white hover:text-red-700">AUTOCOM</Link>
           </div>

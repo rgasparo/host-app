@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Router>
-        <Header />
+          <Header />
         <Suspense fallback={<Loading />}>
           <AppRouter />
         </Suspense>
