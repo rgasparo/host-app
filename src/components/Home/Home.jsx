@@ -13,7 +13,7 @@ const Home = () => {
       <h1 className="font-bold text-2xl">Bienvenido a Autocheck</h1>
       <h3 className="mt-2">El gestor de valoraciones Autocom</h3>
       <img
-        src="https://www.notion.so/cdn-cgi/image/format=webp,width=1920/front-static/pages/home/notion-parade.png"
+        src="https://www.notion.so/cdn-cgi/image/format=webp,width=750/front-static/pages/product/notion-parade.png"
         alt="Descripción de la imagen"
         className="mt-10 mx-auto w-1/2 filter invert"
       />
